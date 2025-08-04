@@ -1,0 +1,58 @@
+
+📄 analizador_proyecto.py
+Función: clasificar_archivo
+Función: leer_extractos
+Función: analizar_proyecto
+Función: generar_resumen_ai
+
+
+📄 analyzer.py
+Función: analizar_archivo
+
+
+📄 analyzers.py
+Función: obtener_lineas_utiles
+Función: analizar_python
+Función: analizar_js
+Función: analizar_html
+Función: analizar_css
+Función: analizar_json
+Función: analizar_txt
+Función: analizar_php
+Función: analizar_java
+Función: analizar_cs
+Función: analizar_yaml
+Función: analizar_dockerfile
+
+
+📄 assistant.py
+Función: responder_pregunta_stream
+
+
+📄 diagram.py
+Función: generar_diagrama
+Función: generar_diagrama_uml
+
+
+📄 docgen.py
+Función: generar_documentacion
+
+
+📄 explorer.py
+Función: es_relevante
+Función: obtener_archivos_mas_importantes
+Función: extraer_resumen_codigo
+
+
+📄 file_selector.py
+Función: es_archivo_clave
+Función: filtrar_archivos_clave
+
+
+📄 main.py
+
+
+
+📄 project_summary.py
+Función: resumen_proyecto
+

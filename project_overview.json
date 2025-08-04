@@ -1,0 +1,5 @@
+{
+    "package.json": "Archivo pequeño: {\n  \"dependencies\": {\n    \"dotenv\": \"^17.2.0\"\n  }\n",
+    "package-lock.json": "{",
+    "react-loadable-manifest.json": "Archivo pequeño: {}"
+}

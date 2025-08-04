@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "",
+    "razon": "Permite obtener la información de la clave del proyecto, incluida su funcionamiento y arquitectura completo."
+  },
+  {
+    "nombre": "",
+    "razon": "Contiene la lista de archivos que es necesario para realizar el análisis del proyecto."
+  },
+  {
+    "nombre": "",
+    "razon": "Descripcion de los cuales estoy debe entender y comprender en este proyecto."
+  },
+  {
+    "nombre": "",
+    "razon": "Esta función es para realizar un test del análisis del proyecto."
+  },
+  {
+    "nombre": "",
+    "razon": "Contiene todas las funciones necesarias para hacer el análisis del proyecto."
+  }
+]
