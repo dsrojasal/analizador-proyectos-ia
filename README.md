@@ -28,7 +28,7 @@ Es ideal para estudiantes, desarrolladores y revisores que necesiten entender r√
 
 1. **Clona el repositorio:**
    ```bash
-   git clone
+   git clone https://github.com/dsrojasal/analizador-proyectos-ia.git
 
 2. **Entra a la carpeta del proyecto:**
 
